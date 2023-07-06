@@ -1,7 +1,7 @@
 # Algoritmo de classificação de imagens - carros e caminhonetes/SUVs
 
 ## Equipe
-Erick Alen Ricioli
+Erick Alen Ricioli - [Vídeo Apresentação](https://youtu.be/a7TdXLZHLQY)
 ## Dataset
 O dataset [Car or Truck?](https://www.kaggle.com/datasets/ryanholbrook/car-or-truck) do kaggle foi escolhido através do material de apoio fornecido.
 
