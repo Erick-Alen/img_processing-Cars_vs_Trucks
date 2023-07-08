@@ -11,7 +11,7 @@ Este é o projeto foi realizado a partir da rede neural convolucional [AlexNet](
 
 O algoritmo foi projetado para classificar imagens entre carros ou caminhonetes, contendo em seu dataset cerca de 5 mil imagens para cada classe. Sua limitação está no número de classes que o mesmo identificará, pois ele é binário, identificando dois tipos de imagens, carros e caminhonetes/SUVs.
 
-Sua acurácia ficou em torno de 88% a 90%, segundo os treinamentos realizados
+Sua acurácia ficou em torno de 88% a 90%, segundo os treinamentos realizados com os parâmetros do notebook.
 
 Material usado neste código:
 
